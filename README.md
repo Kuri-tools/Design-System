@@ -1,6 +1,6 @@
 # 🎨 The design system of Kuri webapp and widgets
 
-
+- [🎨 Logo](https://github.com/Kuri-webapp/Design-System#-logo)
 - [🖥️ Desktop UI](https://github.com/Kuri-webapp/Design-System/tree/main#%EF%B8%8F-desktop-ui)
 - [🌈 Colors](https://github.com/Kuri-webapp/Design-System/tree/main#-colors)
 
