@@ -1,9 +1,12 @@
 # 🎨 The design system of Kuri webapp and widgets
 
-![The logo](logo.png) 
 
-- [🖥️ Desktop UI](#🖥️-desktop-ui)
-- [🌈 Colors](#🌈-colors)
+- [🖥️ Desktop UI](https://github.com/Kuri-webapp/Design-System/tree/main#%EF%B8%8F-desktop-ui)
+- [🌈 Colors](https://github.com/Kuri-webapp/Design-System/tree/main#-colors)
+
+## 🎨 Logo 
+
+![The logo](logo.png) 
 
 ## 🖥️ Desktop UI
 
